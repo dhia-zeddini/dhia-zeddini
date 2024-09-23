@@ -80,8 +80,8 @@ I'm a **Fullstack Mobile Developer** with a passion for building innovative and 
 
 <img src="https://wakatime.com/share/@dhia_zeddini/fca71cea-2a85-4020-852b-8799f595390f.svg" width="700"/>
 <div align="center">
-  <img src="https://wakatime.com/share/@dhia_zeddini/9537d9d0-81c1-447e-a141-17992a75fc82.svg"  width="450" style="margin-right: 50px;" />
-  <img src="https://wakatime.com/share/@dhia_zeddini/bc88e2e4-52ff-4401-8fb3-3f685dd2d6da.svg"  width="450" />
+  <img src="https://wakatime.com/share/@dhia_zeddini/9537d9d0-81c1-447e-a141-17992a75fc82.svg"  width="350"  />
+  <img src="https://wakatime.com/share/@dhia_zeddini/bc88e2e4-52ff-4401-8fb3-3f685dd2d6da.svg"  width="350" />
 </div>
 
 > This section displays my most recent coding activity, measured by WakaTime. I use this to track and improve my productivity across various projects.
@@ -91,8 +91,8 @@ I'm a **Fullstack Mobile Developer** with a passion for building innovative and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhia-zeddini&theme=github_dark" alt="Top Languages" width="450" style="padding-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-zeddini&layout=compact&theme=tokyonight" alt="GitHub Stats" width="450" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhia-zeddini&theme=github_dark" alt="Top Languages" width="350"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-zeddini&layout=compact&theme=tokyonight" alt="GitHub Stats" width="350" />
 </div>
 
 <picture>
