@@ -36,41 +36,8 @@ I'm a **Fullstack Mobile Developer** with a passion for building innovative and 
 
 ## 🔧 Tech Toolbox
 
-<table>
-  <tr>
-    <td><b>Mobile Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP_Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_Chalice-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<table> <tr> <td><b>Mobile Development</b></td> <td> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" /> </td> </tr> <tr> <td><b>Backend & Frameworks</b></td> <td> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PHP_Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_Chalice-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" /> </td> </tr> <tr> <td><b>Database</b></td> <td> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /> </td> </tr> <tr> <td><b>DevOps</b></td> <td> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </td> </tr> </table>
+
 
 ---
 
@@ -108,6 +75,9 @@ I'm a **Fullstack Mobile Developer** with a passion for building innovative and 
 - 🥇 **1st Place - 'Bal des projets ESPRIT 2024'**: *Cazador* - AI & Drone-Enhanced Hunting Solution.
 - 🥇 **1st Place - Empower X-Hack**: *Smart Water Irrigation System* with Hedera Blockchain.
 - 🥉 **4th Place - Tunisia Aptos Hackathon**: *Heritage Guardian* - AI, Blockchain, and AR Solution.
+- ### 📜 Certifications
+- **Docker Essentials** - [View Certificate](https://learn.kodekloud.com/certificate/e6241103-bebc-44c1-a147-4c81ea35288a)
+- **Jenkins Fundamentals** - [View Certificate](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzM5IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzQ0Mjg1MV8xNzI4NTAxMDY0LnBuZyIsInVzZXJuYW1lIjoiTW9oYW1lZCBEaGlhIFplZGRpbmkifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4229%2FGetting-Started-with-Jenkins%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1205102863000118008&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz%2FcJz8r0jgiq9EuyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAJ4wfAVBAAAA)
 
 ---
 
